@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trajectory", "Trajectory\Trajectory.csproj", "{B6159743-5ED5-4FD7-BAA3-F51DD4715406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6159743-5ED5-4FD7-BAA3-F51DD4715406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6159743-5ED5-4FD7-BAA3-F51DD4715406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6159743-5ED5-4FD7-BAA3-F51DD4715406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6159743-5ED5-4FD7-BAA3-F51DD4715406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8089FD9C-056E-4C12-A2C2-7E6C0F9E5F0E}
+	EndGlobalSection
+EndGlobal

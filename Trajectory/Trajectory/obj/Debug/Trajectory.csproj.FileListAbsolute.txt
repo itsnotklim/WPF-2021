@@ -1,0 +1,7 @@
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory\Trajectory\bin\Debug\Trajectory.exe.config
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory\Trajectory\bin\Debug\Trajectory.exe
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory\Trajectory\bin\Debug\Trajectory.pdb
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory\Trajectory\obj\Debug\Trajectory.csprojAssemblyReference.cache
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory\Trajectory\obj\Debug\Trajectory.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory\Trajectory\obj\Debug\Trajectory.exe
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory\Trajectory\obj\Debug\Trajectory.pdb
