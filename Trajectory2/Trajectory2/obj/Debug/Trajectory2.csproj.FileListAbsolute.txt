@@ -1,0 +1,15 @@
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory2\Trajectory2\bin\Debug\Trajectory2.exe.config
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory2\Trajectory2\bin\Debug\Trajectory2.exe
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory2\Trajectory2\bin\Debug\Trajectory2.pdb
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory2\Trajectory2\obj\Debug\Trajectory2.csprojAssemblyReference.cache
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory2\Trajectory2\obj\Debug\MainWindow.g.cs
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory2\Trajectory2\obj\Debug\App.g.cs
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory2\Trajectory2\obj\Debug\Trajectory2_MarkupCompile.cache
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory2\Trajectory2\obj\Debug\Trajectory2_MarkupCompile.lref
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory2\Trajectory2\obj\Debug\MainWindow.baml
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory2\Trajectory2\obj\Debug\Trajectory2.g.resources
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory2\Trajectory2\obj\Debug\Trajectory2.Properties.Resources.resources
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory2\Trajectory2\obj\Debug\Trajectory2.csproj.GenerateResource.cache
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory2\Trajectory2\obj\Debug\Trajectory2.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory2\Trajectory2\obj\Debug\Trajectory2.exe
+C:\Users\ПК\source\repos\itsnotklim\WPF-2021-by-Klim\Trajectory2\Trajectory2\obj\Debug\Trajectory2.pdb
